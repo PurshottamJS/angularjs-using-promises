@@ -1,0 +1,23 @@
+{
+    "name": "angularjs-using-angular.element",
+    "main": "index.js",
+    "description": "This project demonstrate how to use promises in angularjs.",
+    "author": {
+        "name": "Purshottam Sharma",
+        "email": "purshottam.indore@gmail.com",
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/impurshottam/angularjs-using-promises.git"
+    },
+    "homepage": "https://github.com/impurshottam/angularjs-using-promises",
+    "license": "MIT",
+    "dependencies": {
+        "lodash": "^4.17.3",
+        "angular-sanitize": "^1.6.1",
+        "angular": "angularjs#^1.6.1",
+        "bootstrap": "^3.3.7",
+        "angular-cookies": "^1.6.1",
+        "angular-ui-router": "ui-router#^0.3.2"
+    }
+}
